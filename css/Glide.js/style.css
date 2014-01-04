@@ -59,7 +59,7 @@ li.slide div.bottom{
 	border-right:	30px solid transparent;
 	}
 .slider-arrow--right, .slider-arrow--left{
-	background:url("img/snav-b.png");background-position: 0 -30px;}
+	background:url("http://hattoushinha.github.io/img/Glide.js/snav-b.png");background-position: 0 -30px;}
 .slider-arrow--left{float:left; margin-right:10px;background-position: 0 0;}
 
 .slider-arrow--right:hover{background-position: 0 -90px;}
@@ -67,7 +67,7 @@ li.slide div.bottom{
 .slider-arrow--right:active{background-position: 0 -150px;}
 .slider-arrow--left:active{background-position: 0 -120px;}
 
-.slider-nav__item{background:url("img/snav.png");background-position: 0 0;}
+.slider-nav__item{background:url("http://hattoushinha.github.io/img/Glide.js/snav.png");background-position: 0 0;}
 .slider-nav__item:hover{background-position: 0 -60px;}
 .slider-nav__item:active{background-position: 0 -90px;}
 .slider-nav__item.slider-nav__item--current{background-position: 0 -30px;}
