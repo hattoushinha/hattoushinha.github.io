@@ -5,6 +5,7 @@ html, body, .slider, .slides, li.slide{
 	position:	relative;
 	overflow:	hidden;
 	transition:	all 500ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+	z-index:	10;
 	}
 
 li.slide{
