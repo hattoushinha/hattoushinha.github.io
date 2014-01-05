@@ -6,7 +6,7 @@
 }
 
 html, body, .slider-wrap, .slider, .slides, li.slide, li.slide div{
-	widht:100%; list-style-type:none; padding:0; margin:0; height:100%;}
+	font: 12px/24px 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', 'Arial', sans-serif; widht:100%; list-style-type:none; padding:0; margin:0; height:100%;}
 
 .slider{
 	position:	relative;
