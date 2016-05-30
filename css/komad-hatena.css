@@ -77,7 +77,7 @@ html, body {
 }
 .entry-content h3 {
     font-size: 140%;
-    padding: 12px 0 12px 13px;
+    padding: 12px 0 12px 1.3em;
     color: #4D517D;
     padding-left: 13px;
     line-height: 1.6em;
