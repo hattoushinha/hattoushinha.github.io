@@ -35,7 +35,7 @@ html, body {
 	font-family: "Montserrat";
 }
 
-.main-navigation-inner ul {
+.main-navigation-inner ul, .menu-toggle {
     font-family: "Montserrat";
 }
 
