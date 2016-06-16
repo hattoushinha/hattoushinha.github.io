@@ -175,7 +175,5 @@ html, body {
 .follow-me li a[href$="/feed"]::before,
 .follow-me li a[href$="/rss"]::before              { content: "\f09e"; }
 .follow-me li a[href$="/subscribe"]::before         { content: "\f000"; font-family: blogicon; }
-.follow-me li a[href*="pixiv.me"]::before        { content: "p; }
-.follow-me li a[href*="drawr.net"]::before        { content: "d; }
 
 /* Follow me button design */
