@@ -176,6 +176,6 @@ html, body {
 .follow-me li a[href$="/rss"]::before              { content: "\f09e"; }
 .follow-me li a[href$="/subscribe"]::before         { content: "\f000"; font-family: blogicon; }
 .follow-me li a[href*="pixiv.me"]::before        { content: "p"; font-family: "Montserrat"; }
-.follow-me li a[href*="drawr.net"]::before        { content: "d"; font-family: "Montserrat"; }
+.follow-me li a[href*="drawr.net"]::before        { content: "a"; font-family: "Montserrat"; }
 
 /* Follow me button design */
