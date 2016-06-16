@@ -179,3 +179,39 @@ html, body {
 .follow-me li a[href*="drawr.net"]::before        { content: "a"; font-family: "Montserrat"; }
 
 /* Follow me button design */
+
+
+/* Amazon */
+
+.hatena-asin-detail a {
+	color: #e47911;
+}
+
+.hatena-asin-detail a:hover {
+	color: #ff9900;
+}
+
+.hatena-asin-detail {
+	position: relative;
+}
+
+.hatena-asin-detail > a,
+.hatena-asin-detail > div {
+	position: relative;
+	z-index: 2;
+}
+
+.hatena-asin-detail::before {
+	color: #ddd;
+	content: "\f034";
+	cursor: default;
+	display: inline-block;
+	font: 36px/1 blogicon;
+	vertical-align: middle;
+	position: absolute;
+	right: 9px;
+	bottom: 8px;
+	z-index: 1;
+}
+
+/* Amazon */
